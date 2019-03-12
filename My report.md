@@ -1,6 +1,6 @@
 # Pigeonhole principle
 Pigeonhole principle is commonly used in mathematics. pigeonhole principle states that if  n items are put into m containers, with  n>m, then at least one container must contain more than one item.I am going to prove this principle by applying one of the example and solve it by python program using conditional statements The example to prove that more than one student can have the same alphabets if the number of student (n) is more than the number of alphabets(n>m)
-![](https://github.com/WAHEEBTASHAN/try/blob/master/real.jpg)
+ <img src="https://github.com/WAHEEBTASHAN/try/blob/master/real.jpg" width="400">
 ## Example:
  Assume that we have n number of students inside the class , according to Pigeonhole principle,  prove that more than one student
  have their  names started with the same alphabets?
